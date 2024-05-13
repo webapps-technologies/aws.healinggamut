@@ -1,1 +1,0 @@
-import{u as r}from"./vuex-DHdsu8jA.js";import{e as a,k as o,l as n,O as c,G as l}from"./@vue-bQO0P59g.js";const f={__name:"MainSection",setup(u){const e=r(),s=a(()=>e.state.isFullScreen);return(t,i)=>(o(),n("section",{class:l(["px-0 md:px-6 dark:text-slate-100",[s.value?"flex h-screen items-center justify-center":"py-6"]])},[c(t.$slots,"default")],2))}};export{f as default};
