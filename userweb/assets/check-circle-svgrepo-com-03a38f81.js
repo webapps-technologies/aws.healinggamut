@@ -1,0 +1,1 @@
+const s="/assets/mumbai-a145cb46.png",o="/assets/hospital-svgrepo-com-f994c179.svg",c="/assets/nurse-person-svgrepo-com-1f528570.svg",t="/assets/dish-svgrepo-com-a865cb30.svg",a="/assets/car-side-svgrepo-com-8a2c4c52.svg",e="/assets/check-circle-svgrepo-com-3ef8db09.svg";export{s as _,o as a,c as b,t as c,a as d,e};
