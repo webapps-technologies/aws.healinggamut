@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";import{a as o,o as c,b as n,e,d as _}from"./index-477b0694.js";const d={},i={class:"dashboard-layout"},m={class:"middle-container"};function l(p,f){const t=o("Navbar"),a=o("router-view"),s=o("Footer");return c(),n("section",i,[e(t),_("div",m,[e(a)]),e(s)])}const b=r(d,[["render",l]]);export{b as default};

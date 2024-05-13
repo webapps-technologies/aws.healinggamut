@@ -1,1 +1,0 @@
-import{k as t,l as r,y as o,L as a}from"./@vue-_x7nCA0A.js";const s={class:"bg-white border-t border-b border-gray-100 p-6 dark:bg-gray-900 dark:border-gray-900 dark:text-white"},d={class:"text-2xl font-semibold leading-tight dropdown-status"},_={__name:"HeroBar2",setup(n){return(e,c)=>(t(),r("section",s,[o("h2",d,[a(e.$slots,"default")])]))}};export{_ as default};

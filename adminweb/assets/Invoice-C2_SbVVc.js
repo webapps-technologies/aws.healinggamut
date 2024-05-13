@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{k as c,l as o}from"./@vue-bQO0P59g.js";const n={};function r(t,s){return c(),o("section",null," invoice ")}const i=e(n,[["render",r]]);export{i as default};

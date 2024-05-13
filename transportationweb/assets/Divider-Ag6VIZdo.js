@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{k as e,l as o}from"./@vue-_x7nCA0A.js";const t={},c={class:"my-6 -mx-6 border-t border-gray-200 dark:border-gray-700"};function s(a,n){return e(),o("hr",c)}const m=r(t,[["render",s]]);export{m as default};
